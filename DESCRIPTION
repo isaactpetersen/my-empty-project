@@ -1,0 +1,13 @@
+Package: placeholder
+Title: my-empty-project
+Version: 1.0.0
+Imports:
+  knitr,
+  rmarkdown,
+  tidyverse,
+  svglite,
+  sysfonts,
+  showtext,
+  downlit,
+  xml2
+
