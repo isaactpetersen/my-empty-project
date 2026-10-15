@@ -1,7 +1,0 @@
-project:
-  type: manuscript
-
-format:
-  html:
-    code-overflow: scroll
-    toc: true
