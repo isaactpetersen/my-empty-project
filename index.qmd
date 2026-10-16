@@ -4,6 +4,8 @@ title: "my-empty-project"
 
 ```{r}
 #| results: hold
+#| code-overflow: scroll
+
 print("Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!")
 print("Bye")
 ```

@@ -5,4 +5,3 @@ format:
   html:
     code-overflow: scroll
     toc: true
-    css: notebook-scroll.css
